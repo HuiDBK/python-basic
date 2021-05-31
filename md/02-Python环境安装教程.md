@@ -119,6 +119,8 @@
 ![自定义Python安装路径](https://img-blog.csdnimg.cn/20200411152320119.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNjI5ODU3,size_16,color_FFFFFF,t_70#pic_left)
 点击Install等待进度条走完
 
+<br/>
+
 ![等待Python安装](https://img-blog.csdnimg.cn/20200411152237268.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNjI5ODU3,size_16,color_FFFFFF,t_70#pic_left)
 
 <br/>
@@ -161,9 +163,12 @@ print("Hello World")
 
 ## 尾语
 
-**✍ 用代码谱写世界，让生活更有趣。    ❤️**
+**✍ 用代码谱写世界，让生活更有趣。   &nbsp;❤️**
 
 **✍ 万水千山总是情，点赞再走行不行。❤️**
 
 **✍ 码字不易，还望各位大侠多多支持。❤️**
 
+<br/>
+
+![002.jpg](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5fe9a9f24c44203905f53357a8d5853~tplv-k3u1fbpfcp-watermark.image)

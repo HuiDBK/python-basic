@@ -1,4 +1,4 @@
-# PythonBasic
+# Python基础入门
 
 ## 前言
 
@@ -18,12 +18,18 @@
 
 <br/>
 
-## 二、Python环境的搭建与安装
+## [二、Python环境的搭建与安装](https://gitee.com/huiDBK/python-basic/blob/master/md/02-Python%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
 
 > 学习Python，Python解释器少不了下载，不然写的Python代码都没谁认识。
 
 <br/>
 
-## 三、PyCharm下载与安装
+## [三、PyCharm下载与安装](https://gitee.com/huiDBK/python-basic/blob/master/md/03-Pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%8C%E7%BE%8E%E4%BD%BF%E7%94%A8.md)
 
 > 写Python程序，PyCharm这个集成开发环境工具是提升效率的好帮手。
+
+<br/>
+
+## 四、第一个Python程序
+
+> 利用PyCharm构建出自己的第一个Python程序

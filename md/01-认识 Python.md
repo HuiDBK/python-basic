@@ -43,6 +43,15 @@
 
 <br/>
 
+**Python 的解释器** 如今有多个语言的实现，包括：
+
+- `CPython` —— 官方版本的 C 语言实现
+- `JPython` —— 可以运行在 Java 平台
+- `IronPython` —— 可以运行在 .NET 和 Mono 平台
+- `PyPy` —— Python 实现的，支持 JIT 即时编译
+
+<br/>
+
 ### Python 的设计目标
 
 `1999` 年，**吉多·范罗苏姆** 向 `DARPA` 提交了一条名为 **“Computer Programming for Everybody”** 的资金申请，并在后来说明了他对 `Python` 的设计目标：
@@ -173,8 +182,12 @@ Python 开发者的哲学是：**用一种方法，最好是只有一种方法�
 
 ## 尾语
 
-**✍ 用代码谱写世界，让生活更有趣。    ❤️**
+**✍ 用代码谱写世界，让生活更有趣。   &nbsp;❤️**
 
 **✍ 万水千山总是情，点赞再走行不行。❤️**
 
 **✍ 码字不易，还望各位大侠多多支持。❤️**
+
+<br/>
+
+![001.jpg](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7e5ee1181b52470b9a2a78c1b038e3f8~tplv-k3u1fbpfcp-watermark.image)
