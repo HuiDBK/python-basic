@@ -24,12 +24,15 @@
 
 <br/>
 
-## [三、PyCharm下载与安装](https://gitee.com/huiDBK/python-basic/blob/master/md/03-Pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%8C%E7%BE%8E%E4%BD%BF%E7%94%A8.md)
+## [三、我的第一个Python程序](https://gitee.com/huiDBK/python-basic/blob/master/md/03-%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F.md)
+
+> 在学习多门语言时，第一个案例大部分都是输出 `hello world`。来康康 [我的第一个Python程序](https://gitee.com/huiDBK/python-basic/blob/master/md/03-%E7%AC%AC%E4%B8%80%E4%B8%AAPython%E7%A8%8B%E5%BA%8F.md)
+
+<br/>
+
+## [四、PyCharm下载与安装]()
 
 > 写Python程序，PyCharm这个集成开发环境工具是提升效率的好帮手。
 
 <br/>
 
-## 四、第一个Python程序
-
-> 利用PyCharm构建出自己的第一个Python程序
