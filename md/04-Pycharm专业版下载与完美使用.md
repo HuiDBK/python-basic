@@ -158,7 +158,7 @@
 
 <br/>
 
-![拖拽安装插件](https://img-blog.csdnimg.cn/20210424191905196.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNjI5ODU3,size_16,color_FFFFFF,t_70)
+![插件安装](https://img-blog.csdnimg.cn/20210425103907348.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNjI5ODU3,size_16,color_FFFFFF,t_70)
 
 <br/>
 
@@ -190,6 +190,13 @@
 <br/>
 
 到这就已经可以完美使用PyCharm专业版了。
+
+<br/>
+
+> 本项目只做个人学习研究之用，不得用于商业用途！
+> 若资金允许，请点击[链接](https://www.jetbrains.com/idea/buy/)购买正版，谢谢合作！
+> 学生凭学生证可[免费申请](https://sales.jetbrains.com/hc/zh-cn/articles/207154369-学生授权申请方式)正版授权！
+> 创业公司可[5折购买](https://www.jetbrains.com/shop/eform/startup)正版授权！
 
 <br/>
 
