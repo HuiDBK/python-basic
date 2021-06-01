@@ -2,7 +2,11 @@
 
 ## 前言
 
-> 整理一些 **Python基础入门教程**，让Python小白可以了解Python起源、熟悉Python解释器，编辑器安装下载、并介绍一些Python基础语法，最后多个Python实战小例子带你熟悉 `Python` 程序设计。下文每一个标题都有链接对应相关知识点文章。
+> 整理一些 **Python基础入门教程**，让Python小白可以了解Python起源、熟悉Python解释器，编辑器安装下载、知道一些PyCharm常用配置及快捷命令，并介绍一些Python基础语法，最后多个Python实战小例子带你熟悉 `Python` 程序设计。下文中的每一个标题都有链接对应相关知识点文章。
+>
+> 最近我会一直维护这个项目，大家有什么建议都可以本项目中评论或提 `Issues`
+
+<br/>
 
 网上有很多Python基础教程，而且比你的好，你为什么还要做呢？
 
@@ -30,9 +34,23 @@
 
 <br/>
 
-## [四、PyCharm下载与安装]()
+## [四、PyCharm下载与安装](https://gitee.com/huiDBK/python-basic/blob/master/md/04-Pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%8C%E7%BE%8E%E4%BD%BF%E7%94%A8.md)
 
-> 写Python程序，PyCharm这个集成开发环境工具是提升效率的好帮手。
+> 写 `Python` 程序，`PyCharm` 这个 **集成开发环境工具** 是提升效率的好帮手，就是打开项目有点慢，如果不习惯可以暂时使用记事本进行编写或者下载一些轻量级的文本编辑器，例如：
+>
+> - Sublime Text
+> - VSCode
+> - NotePad ++
+
+<br/>
+
+### [PyCharm使用介绍及常用配置](https://gitee.com/huiDBK/python-basic/blob/master/md/05-PyCharm%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE.md)
+
+> 创建 `Python` 项目、配置窗口主题、设置字体大小、管理项目 `Python` 解释器。
+
+<br/>
+
+### PyCharm常用快捷汇总
 
 <br/>
 
