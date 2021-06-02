@@ -44,13 +44,13 @@
 
 <br/>
 
-### [PyCharm使用介绍及常用配置](https://gitee.com/huiDBK/python-basic/blob/master/md/05-PyCharm%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE.md)
+### [4.1 PyCharm使用介绍及常用配置](https://gitee.com/huiDBK/python-basic/blob/master/md/05-PyCharm%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE.md)
 
 > 创建 `Python` 项目、配置窗口主题、设置字体大小、管理项目 `Python` 解释器。
 
 <br/>
 
-### [PyCharm常用开发快捷汇总](https://gitee.com/huiDBK/python-basic/blob/master/md/06-PyCharm%E5%B8%B8%E7%94%A8%E5%BC%80%E5%8F%91%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
+### [4.2 PyCharm常用开发快捷汇总](https://gitee.com/huiDBK/python-basic/blob/master/md/06-PyCharm%E5%B8%B8%E7%94%A8%E5%BC%80%E5%8F%91%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 
 > 格式化代码、复制当前行到下一行、收缩\展开代码块、打开 `Git` 提交面板等常用开发快捷键。
 
