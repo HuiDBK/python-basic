@@ -50,7 +50,9 @@
 
 <br/>
 
-### PyCharm常用快捷汇总
+### [PyCharm常用开发快捷汇总](https://gitee.com/huiDBK/python-basic/blob/master/md/06-PyCharm%E5%B8%B8%E7%94%A8%E5%BC%80%E5%8F%91%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
+
+> 格式化代码、复制当前行到下一行、收缩\展开代码块、打开 `Git` 提交面板等常用开发快捷键。
 
 <br/>
 

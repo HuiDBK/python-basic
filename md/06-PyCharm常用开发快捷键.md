@@ -26,6 +26,7 @@
 | `Ctrl + Shift + N` | 查找项目中的任何文件                    |
 | `Shift + F10`      | 运行当前文件                            |
 | `Alt + F12`        | 开启/关闭 PyCharm `Terminal` 终端控制台 |
+| `Ctrl + K`         | 打开 `Git` 版本控制提交面板             |
 
 <br/>
 
