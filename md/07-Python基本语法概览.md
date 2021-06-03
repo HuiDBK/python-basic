@@ -425,12 +425,30 @@ print(name_set)    	# 结果为 {'hui', 'wang', 'zack'}
 
 ## Python 类
 
-> 类，事物的抽象修饰，使用 `class` 关键字定义类
+> 类，用来描述具有相同的属性和方法的对象的集合。它定义了该集合中每个对象所共有的属性和方法。对象是类的实例。Python中使用 `class` 关键字定义类
 
 ```python
+#!/usr/bin/python3
+# -*- coding:utf-8 -*-
+
+# 定义类
 class User:
+    
+    # 类属性
     name = 'hui'
     age = 21
+    
+    # 方法
+    def get_age(self):
+        print(self.age)
+        return self.age
+
+# 创建类对象    
+user = User()
+
+# 访问类的属性和方法
+print(user.name)
+user.get_age()
 ```
 
 <br/>
