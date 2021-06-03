@@ -101,6 +101,39 @@
 
 <br/>
 
+### 设置Python文件、代码模板风格
+
+> 打开配置界面 `File -> settings...`，找到 `Editor` 配置选项，进行如下设置
+
+![设置Python文件、代码模板](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6c7dbe52a115439996cc55bad76d342e~tplv-k3u1fbpfcp-watermark.image)
+
+<br/>
+
+```python
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+# @Author: Hui
+# @Desc: { 模块描述 }
+# @Date: ${YEAR}/${MONTH}/${DAY} ${TIME}
+
+
+def main():
+    pass
+    
+
+if __name__ == '__main__':
+    main()
+    
+```
+
+<br/>
+
+这是我个人的风格爱好，大家可以根据自己爱好来设置。下次新建 `Python` 文件都会是如下风格
+
+![使用模板后的Python文件](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/52114bd532fa4dfdb92664b54c967353~tplv-k3u1fbpfcp-watermark.image)
+
+<br/>
+
 ## 尾语
 
 **✍ 用  Code 谱写世界，让生活更有趣。❤️**

@@ -171,4 +171,4 @@ print("Hello World")
 
 <br/>
 
-![002.jpg](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f5fe9a9f24c44203905f53357a8d5853~tplv-k3u1fbpfcp-watermark.image)
+![002.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4f85f7d95b134878b38769bde71fbfb8~tplv-k3u1fbpfcp-watermark.image)

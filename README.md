@@ -1,4 +1,4 @@
-# Python基础入门
+# Python 基础入门
 
 ## 前言
 
@@ -62,3 +62,6 @@
 
 <br/>
 
+## [六、Python 代码注释](https://gitee.com/huiDBK/python-basic/blob/master/md/08-Python%E4%BB%A3%E7%A0%81%E6%B3%A8%E9%87%8A.md)
+
+> 添加良好的代码注释，是程序员的基本素养，能快速了解其含义，提高代码的可读性。
