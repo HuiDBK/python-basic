@@ -46,7 +46,7 @@
 
 ### [4.1 PyCharm 使用介绍及常用配置](https://gitee.com/huiDBK/python-basic/blob/master/md/05-PyCharm%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE.md)
 
-> 创建 `Python` 项目、配置窗口主题、设置字体大小、管理项目 `Python` 解释器。
+> 创建 `Python` 项目、配置窗口主题、设置字体大小、管理项目 `Python` 解释器，配置Python文件、代码模板
 
 <br/>
 
@@ -65,3 +65,18 @@
 ## [六、Python 代码注释](https://gitee.com/huiDBK/python-basic/blob/master/md/08-Python%E4%BB%A3%E7%A0%81%E6%B3%A8%E9%87%8A.md)
 
 > 添加良好的代码注释，是程序员的基本素养，能快速了解其含义，提高代码的可读性。
+
+<br/>
+
+## [七、Python 运算符](https://gitee.com/huiDBK/python-basic/blob/master/md/09-Python%E8%BF%90%E7%AE%97%E7%AC%A6.md)
+
+> - [算术运算符](https://gitee.com/huiDBK/python-basic/blob/master/md/09-Python%E8%BF%90%E7%AE%97%E7%AC%A6.md#算术运算符)
+> - [比较运算符](https://gitee.com/huiDBK/python-basic/blob/master/md/09-Python%E8%BF%90%E7%AE%97%E7%AC%A6.md#比较运算符)
+> - [赋值运算符](https://gitee.com/huiDBK/python-basic/blob/master/md/09-Python%E8%BF%90%E7%AE%97%E7%AC%A6.md#赋值运算符)
+> - [逻辑运算符](https://gitee.com/huiDBK/python-basic/blob/master/md/09-Python%E8%BF%90%E7%AE%97%E7%AC%A6.md#赋值运算符)
+> - [位运算符](https://gitee.com/huiDBK/python-basic/blob/master/md/09-Python%E8%BF%90%E7%AE%97%E7%AC%A6.md#位运算符)
+> - [成员运算符](https://gitee.com/huiDBK/python-basic/blob/master/md/09-Python%E8%BF%90%E7%AE%97%E7%AC%A6.md#成员运算符)
+> - [身份运算符](https://gitee.com/huiDBK/python-basic/blob/master/md/09-Python%E8%BF%90%E7%AE%97%E7%AC%A6.md#身份运算符)
+
+<br/>
+
