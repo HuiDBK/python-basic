@@ -80,3 +80,14 @@
 
 <br/>
 
+## [八、Python 变量的基本使用](https://gitee.com/huiDBK/python-basic/blob/master/md/10-Python%E5%8F%98%E9%87%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.md)
+
+> 程序就是用来处理数据的，而变量就是用来存储数据的。
+
+<br/>
+
+## [九、Python 变量的命名](https://gitee.com/huiDBK/python-basic/blob/master/md/11-Python%E5%8F%98%E9%87%8F%E7%9A%84%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83.md)
+
+> 混乱或错误的命名不仅让我们对代码难以理解，更糟糕的是，会误导我们的思维，导致对代码的理解完全错误。相反，良好的命名，则可以让我们的代码非常容易读懂，也能向读者正确表达事物以及逻辑的本质，从而使得代码的可维护性就大大增强。
+
+<br/>
