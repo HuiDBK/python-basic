@@ -5,6 +5,8 @@
 > 整理一些 **Python基础入门教程**，让Python小白可以了解Python起源、熟悉Python解释器，编辑器安装下载、知道一些PyCharm常用配置及快捷命令，并介绍一些Python基础语法，最后多个Python实战小例子带你熟悉 `Python` 程序设计。下文中的每一个标题都有链接对应相关知识点文章。
 >
 > 最近我会一直维护这个项目，大家有什么建议都可以本项目中评论或提 `Issues`
+>
+> 项目地址：https://gitee.com/huiDBK/python-basic
 
 <br/>
 

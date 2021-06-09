@@ -47,7 +47,7 @@ pip install ipython
 
 <br/>
 
-> ***pip (python install package)*** 是 **Python 包管理工具**，该工具提供了对Python 包的查找、下载、安装、卸载的功能。在安装Python解释器时，就给用户配置好了，可以直接使用。
+> ***pip (package installer for Python)*** 是 **Python 包管理工具**，该工具提供了对Python 包的查找、下载、安装、卸载的功能。在安装Python解释器时，就给用户配置好了，可以直接使用。
 
 <br/>
 
@@ -547,7 +547,7 @@ Out[5]: 8
 In [6]: bin(a & b)
 Out[6]: '0b1000'
     
-In [7]: # 按位或
+In [7]: # 按位或 |
 
 In [8]: a | b
 Out[8]: 10
@@ -561,7 +561,7 @@ Out[9]: '0b1010'
 **按位异或、按位取反，位运算符测验**
 
 ```python
-In [10]: # 按位异或
+In [10]: # 按位异或 ^
 
 In [11]: a = 10
 
@@ -579,7 +579,7 @@ Out[15]: 2
 In [16]: bin(a ^ b)
 Out[16]: '0b10'
 
-In [17]: # 按位取反
+In [17]: # 按位取反 ~
 
 In [18]: a = 13
 
