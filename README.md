@@ -102,3 +102,15 @@
 
 <br/>
 
+## [十一、Python 循环](https://gitee.com/huiDBK/python-basic/blob/master/md/13-Python%E5%BE%AA%E7%8E%AF.md)
+
+> 在 `Python` 语法中有两类循环
+>
+> - `while` 循环
+> - `for` 循环
+>
+> 并介绍关键字 `continue` 和 `break` 在循环中的作用。
+
+<br/>
+
+## 十二、Python 函数
