@@ -113,4 +113,16 @@
 
 <br/>
 
-## 十二、Python 函数
+## [十二、Python 函数](https://gitee.com/huiDBK/python-basic/blob/master/md/14-Python%E5%87%BD%E6%95%B0.md)
+
+> 所谓**函数**，就是把 **具有独立功能的代码块** 组织为一个小模块，在需要的时候 **调用**
+>
+> **函数的作用：**在开发程序时，使用函数可以提高编写的效率以及代码的 **重用**
+
+<br/>
+
+## [十三、Python 字符串 str](https://gitee.com/huiDBK/python-basic/blob/master/md/15-Python%E4%B8%AD%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+
+> 现实生活中文字随处可见，编程语言中则用字符串来表示，字符串是 `Python` 中最常用的数据类型之一。
+
+<br/>
