@@ -127,7 +127,7 @@
 
 <br/>
 
-## 十四、Python 列表 list
+## [十四、Python 列表 list](https://gitee.com/huiDBK/python-basic/blob/master/md/16-Python%E5%88%97%E8%A1%A8%20list.md)
 
 > `list`（列表） 是 `Python` 中使用 **最频繁** 的数据类型，在其他语言中通常叫做 **数组**
 
