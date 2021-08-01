@@ -132,3 +132,8 @@
 > `list`（列表） 是 `Python` 中使用 **最频繁** 的数据类型，在其他语言中通常叫做 **数组**
 
 <br/>
+
+## [十五、Python 元组 tuple](https://gitee.com/huiDBK/python-basic/blob/master/md/17-Python%E5%85%83%E7%BB%84tuple.md)
+
+> `tuple`（元组）与列表类似，不同之处在于元组的 **元素不能修改**
+
