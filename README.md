@@ -137,3 +137,12 @@
 
 > `tuple`（元组）与列表类似，不同之处在于元组的 **元素不能修改**
 
+<br/>
+
+## [十六、Python 字典 dict](https://gitee.com/huiDBK/python-basic/blob/master/md/18-Python%E5%AD%97%E5%85%B8dict.md)
+
+> `dict`（字典） 是 **除列表以外** `Python` 之中 **最灵活** 的数据类型
+>
+> 字典同样可以用来 **存储多个数据**，通常用于存储 **描述一个 `物体` 的相关信息** 
+
+<br/>
