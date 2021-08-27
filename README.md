@@ -146,3 +146,9 @@
 > 字典同样可以用来 **存储多个数据**，通常用于存储 **描述一个 `物体` 的相关信息** 
 
 <br/>
+
+## [十七、Python 集合 set](https://gitee.com/huiDBK/python-basic/blob/master/md/19-Python%E9%9B%86%E5%90%88set.md)
+
+> `set`（集合）虽然用的很少，但它是一个无序的不重复元素序列，用来简单的去重挺方便的。
+
+<br/>
